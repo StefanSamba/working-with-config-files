@@ -1,0 +1,9 @@
+paths:
+  data: "data/"
+
+storage:
+  bucket: "demo-bucket"
+
+ml:
+  kfold: 10
+  clean_utterances: true
