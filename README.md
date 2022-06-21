@@ -19,13 +19,19 @@ Example of configuration in the python code (this is NOT recommended)
 
 - `python3 1_in_py_file/main.py` or
 
+### 1. Python dotenv .env
+
 Example of configuration in a .env file
 
 - `python3 2_in_dotenv/main.py` or
 
+### 2. Box to read .yaml
+
 Example of configuration in a .yaml file and reading via Box
 
 - `python3 3_in_json_or_yaml/main_box.py` or
+
+### 3. Hydra to read .yaml
 
 Example of configuration in a .yaml file and reading via Hydra
 
